@@ -41,14 +41,14 @@
 <p align="center">
   <a href="mailto:contact@andrexserver.org"><b>📫 Contact me</b></a> • 
   <a href="https://shadowmail.win"><b>🌑 ShadowMail</b></a> • 
-  <a href="https://github.com/AndrexDev"><b>💾 My GitHub</b></a>
+  <a href="https://github.com/ItsAndrexDev"><b>💾 My GitHub</b></a>
 </p>
 
 ---
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrexDev&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAndrexDev&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
