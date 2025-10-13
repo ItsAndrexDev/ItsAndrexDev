@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Andrex</h1>
 
 <p align="center">
-  🇭🇺 <b>Hungarian Backend Developer</b> • 🐧 <b>Linux Enthusiast</b> • 🎨 <b>Ricing Addict</b>  
+  🇭🇺 <b>15 year oldHungarian Backend Developer</b> • 🐧 <b>Linux Enthusiast</b> • 🎨 <b>Ricing Addict</b>  
 </p>
 
 ---
