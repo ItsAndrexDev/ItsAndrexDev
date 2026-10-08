@@ -8,13 +8,12 @@
 
 ## 🧠 About Me
 
-- 💻 Over **5 years of Systems Developemtn**, focused on performance and reliability  
+- 💻 Over **5 years of Systems Developement**, focused on performance and reliability  
 - 🐧 Daily driving **Arch Linux**, customized with **Hyprland** for a minimal yet powerful desktop  
 - 🔒 Passionate about **privacy**, **self-hosting**, and **open-source software**  
 - ☁️ Running multiple **home servers** for experiments, hosting, and personal infrastructure  
-- 💌 Creator of [**ShadowMail**](https://shadowmail.win) — a **privacy-first temporary mail service**
-  - 📨 Up to **12 permanent addresses** per user  
-  - 🧹 Emails **auto-delete after 10 days**  
+- 💌 Developer of [**ShadowMail**](https://shadowmail.win) — a **privacy-first temporary mail service**
+  - 📨 Up to **12 permanent addresses** per user   
   - ⚙️ Built for **speed, simplicity, and privacy**  
 
 ---
